@@ -1,5 +1,13 @@
 # FoldHome
 
+## Download APK
+
+[![Download APK](https://img.shields.io/badge/Download-FoldHome_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/drgelin/foldhome/releases/latest/download/FoldHome.apk)
+
+Unofficial build. Tested on Samsung Galaxy Z Fold8.
+
+[All releases](https://github.com/drgelin/foldhome/releases)
+
 Use a different launcher on each screen of a foldable phone, for example
 [Niagara Launcher](https://niagaralauncher.app/) on the cover screen and One UI
 Home on the inner screen. No root, no Shizuku, no Tasker.
