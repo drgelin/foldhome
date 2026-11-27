@@ -2,9 +2,11 @@
 
 ## Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-FoldHome_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/drgelin/foldhome/releases/latest/download/FoldHome.apk)
+[![Download APK](https://img.shields.io/badge/Download-FoldHome_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/drgelin/foldhome/releases/latest/download/FoldHome.zip)
 
 Unofficial build. Tested on Samsung Galaxy Z Fold8.
+
+Extract the ZIP file and install the APK inside.
 
 [All releases](https://github.com/drgelin/foldhome/releases)
 
